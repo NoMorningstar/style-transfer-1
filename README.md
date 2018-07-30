@@ -41,4 +41,4 @@ Here, `<model_name>` must be one of `vgg16`, `vgg19`, `googlenet`, or `caffenet`
 ## Sample
 ![Image text](https://raw.githubusercontent.com/NoMorningstar/style-transfer-1/scripts/00001-wave-vgg19-content-1e4-512.jpg)
 <p align="center">
-<img src="https://raw.githubusercontent.com/NoMorningstar/style-transfer-1/scripts/00001-wave-vgg19-content-1e4-512.jpg" width="50%"/>
+<img src="https://raw.githubusercontent.com/NoMorningstar/style-transfer-1/scripts/master/00001-wave-vgg19-content-1e4-512.jpg" width="50%"/>
