@@ -39,11 +39,4 @@ bash scripts/download_models.sh <model_name>
 Here, `<model_name>` must be one of `vgg16`, `vgg19`, `googlenet`, or `caffenet`.
 
 ## Sample
-
-Original images: [San Francisco](https://www.flickr.com/photos/anhgemus-photography/15377047497) by Anh Dinh, [Nanjing in winter snow, 2008](https://www.flickr.com/photos/emmajg/3199018106) by Emma Gawen, and [Blade Runner's Johannesburg](https://www.flickr.com/photos/andryn2006/19114016482) by Andrew Moore. All images were released under the Creative Comments license. Each output image was initialized with the content image, and 500 BFGS iterations under the VGG model were performed in each instance.
-
-
-These results can also be found in the `images` folder in the repository root.
-
-A more in-depth set of examples can be found [here](http://frankzliu.com/artistic-style-transfer/).
-# style-transfer-1
+![Image text](https://raw.githubusercontent.com/NoMorningstar/style-transfer-1/scripts/00001-wave-vgg19-content-1e4-512.jpg)
